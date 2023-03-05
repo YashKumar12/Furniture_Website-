@@ -1,0 +1,13 @@
+// Product data (in real-world scenarios, this data would come from a database)
+const products = [
+    {
+      name: 'Chair',
+      price: 99.99,
+      image: 'chair.jpg'
+    },
+    {
+      name: 'Table',
+      price: 199.99,
+      image: 'table.jpg'
+    },
+  
